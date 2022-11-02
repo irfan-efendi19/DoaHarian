@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "629734939343",
+    "project_id": "doa-sehari-hari-db867",
+    "storage_bucket": "doa-sehari-hari-db867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629734939343:android:3d4a37699b36ff0774b5ba",
+        "android_client_info": {
+          "package_name": "com.sekolahbeta.materiretrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629734939343-ct302ggbk5b0m6m0oeht1edcb19hqr0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdtRr-FoZvNamOb-3u6gRFsONwO-krsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629734939343-ct302ggbk5b0m6m0oeht1edcb19hqr0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629734939343:android:23afc946712b382e74b5ba",
+        "android_client_info": {
+          "package_name": "com.sekolahbetasurabaya.doaharian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629734939343-ct302ggbk5b0m6m0oeht1edcb19hqr0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdtRr-FoZvNamOb-3u6gRFsONwO-krsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629734939343-ct302ggbk5b0m6m0oeht1edcb19hqr0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

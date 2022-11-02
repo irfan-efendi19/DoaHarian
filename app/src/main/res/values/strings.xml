@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daily Prayer</string>
+    <string name="signin">Sign IN</string>
+    <string name="signup">Register</string>
+    <string name="inputemail">Enter E-Mail</string>
+    <string name="inputpass">Enter Password</string>
+    <string name="Artinya">Means</string>
+</resources>

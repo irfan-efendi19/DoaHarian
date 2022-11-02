@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doa Sehari-Hari</string>
+    <string name="signin">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="inputemail">Masukkan E-Mail</string>
+    <string name="inputpass">Masukkan Password</string>
+    <string name="Artinya">Artinya</string>
+</resources>
